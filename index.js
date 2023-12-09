@@ -6,7 +6,7 @@ function updatePreview(){
 }
 function setDefault(){
     let defaultText = `\
-# Useful Programming
+# Useful Coder
 ## a markdown previewer
 [Learn about cool technologies](https://www.freecodecamp.org/learn/front-end-development-libraries/).
 
@@ -32,7 +32,7 @@ return multiLineCodeBlock;
 
 > Learn not to settle for less
 
-![Usefull Programming](https://miro.medium.com/v2/resize:fit:720/format:webp/1*0FqDC0_r1f5xFz3IywLYRA.jpeg)
+![Usefull Programming](https://wallpapersmug.com/download/240x320/c3c43f/matrix-code-numbers-green.jpg)
 
 **Bolded Text**`;
     let editorField = document.getElementById("editor");
